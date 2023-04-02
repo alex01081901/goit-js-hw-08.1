@@ -1,6 +1,6 @@
 // Add imports above this line
-import '../../node_modules/simple-lightbox/dist/simpleLightbox.css';
-
+// import '../../node_modules/simple-lightbox/dist/simpleLightbox.css';
+import "simplelightbox/dist/simple-lightbox.min.css"
 import { galleryItems } from './gallery-items';
 // Change code below this line
 import   SimpleLightbox from "simplelightbox";
